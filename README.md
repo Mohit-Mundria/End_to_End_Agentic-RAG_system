@@ -1,4 +1,4 @@
-# Agentic-RAG_system
+# Retrieval-Augmented Generation(RAG)
 📚 Legal RAG System for Indian Labour & IT Laws
 
 Retrieval-Augmented Generation (RAG) system powered by Indian legal documents.
